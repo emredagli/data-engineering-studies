@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignored files & directories
+*-ignored.*
+*-ignored/
+
+.idea/
+.DS_STORE
+.pytest_cache
